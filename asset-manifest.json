@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/sk8rs-cal/static/css/main.fbc00891.css",
+    "main.js": "/sk8rs-cal/static/js/main.fa359928.js",
+    "index.html": "/sk8rs-cal/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fbc00891.css",
+    "static/js/main.fa359928.js"
+  ]
+}
